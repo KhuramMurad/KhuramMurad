@@ -38,7 +38,7 @@
 
 ### 📫 Let’s connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khurammurad)  
-✉️ Email: khuram@example.com *(replace with your real email)*
+✉️ Email: khuram@example.com
 
 ---
 
