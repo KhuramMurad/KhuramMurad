@@ -43,7 +43,7 @@
 ---
 
 ### ⚡ Fun fact
-I build live AI‑assistants like **Local ChatGPT with Llama3.2‑Vision** running fully offline 🤖 :contentReference[oaicite:4]{index=4}
+I build live AI‑assistants like **Local ChatGPT with Llama3.2‑Vision** running fully offline 🤖
 
 ---
 
