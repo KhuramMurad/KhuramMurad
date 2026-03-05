@@ -13,7 +13,7 @@
 ---
 
 ## 🛠️ Languages & Tools
-
+[![RedHat](https://img.shields.io/badge/Red--Hat-EE0000?logo=redhat&logoColor=white)](https://www.redhat.com)
 [![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)](https://www.python.org)  
 [![Go](https://img.shields.io/badge/Go‑Lang-00ADD8?logo=go&logoColor=white)](https://golang.org)  
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com)  
