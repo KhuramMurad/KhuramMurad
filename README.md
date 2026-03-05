@@ -13,14 +13,14 @@
 ---
 
 ## 🛠️ Languages & Tools
-[![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)](https://www.python.org)
-[![Go](https://img.shields.io/badge/Go‑Lang-00ADD8?logo=go&logoColor=white)](https://golang.org)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)](https://kubernetes.io)
-[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)](https://www.terraform.io)
-[![AWS](https://img.shields.io/badge/AWS‑Cloud-232F3E?logo=amazonaws&logoColor=white)](https://aws.amazon.com)
+[![RedHat](https://img.shields.io/badge/Red--Hat-EE0000?logo=redhat&logoColor=white)](https://www.redhat.com)  
+[![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)](https://www.python.org)  
+[![Go](https://img.shields.io/badge/Go‑Lang-00ADD8?logo=go&logoColor=white)](https://golang.org)  
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com)  
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)](https://kubernetes.io)  
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)](https://www.terraform.io)  
+[![AWS](https://img.shields.io/badge/AWS‑Cloud-232F3E?logo=amazonaws&logoColor=white)](https://aws.amazon.com)  
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com)
-[![RedHat](https://img.shields.io/badge/Red--Hat-EE0000?logo=redhat&logoColor=white)](https://www.redhat.com)
 
 ---
 
