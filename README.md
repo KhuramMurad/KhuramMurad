@@ -1,12 +1,12 @@
 <div align="center">
-  👋 Hi, I’m **Khuram Murad**  
-  🚀 DevOps · AI · Platform Engineer  
-  🇵🇰 Pakistan · AI‑Ops Enthusiast  
+  👋 Hi, I’m Khuram Murad  
+  🚀 AI Agents Specialist  
+  🇵🇰 Pakistan  
 </div>
 
 ---
 
-## 🌱 What I’m Learning
+## 🌱 What I’m dealing with,
 - 🚀 **DevOps Automation**: Kubernetes, Terraform, CI/CD pipelines, Prometheus & Grafana  
 - 🤖 **AI-Powered DevOps** & **Infrastructure as Code**
 
